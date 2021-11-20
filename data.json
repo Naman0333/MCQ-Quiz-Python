@@ -1,0 +1,91 @@
+{
+    "question": [
+        "Q1. What Indian city is the capital of two states?",
+        "Q2. Which one of the following is not a prime number?",
+        "Q3. Which city is the capital of India?",
+        "Q4. The ratio of width of India National flag to its length is?",
+        "Q5. Smallest State of India?",
+        "Q6. Who developed Python Programming Language?",
+        "Q7. Where is Taj Mahal Located?",
+        "Q8. Which of the following is a Python tuple?",
+        "Q9. What are the two main types of functions in Python?",
+        "Q10. To add a new element to a list we use which Python command?"
+
+    ],
+    "answer": [
+        1,
+        4,
+        2,
+        2,
+        3,
+        3,
+        2,
+        1,
+        3,
+        3
+
+    ],
+    "options": [
+        [
+            "Chandigarh",
+            "Kolkata",
+            "Delhi",
+            "Banglore"
+        ],
+        [
+            "31",
+            "61",
+            "71",
+            "91"
+
+        ],
+        [
+            "Jaipur",
+            "Delhi",
+            "Chennai",
+            "Mumbai"
+        ],
+        [
+            "3:5",
+            "2:3",
+            "2:4",
+            "3:4"
+        ],
+        [
+            "Rajasthan",
+            "Punjab",
+            "Goa",
+            "Bihar"
+        ],
+        [
+            "Wick van Rossum",
+            "Rasmus Lerdorf",
+            "Guido van Rossum",
+            "Niene Stom"
+        ],
+        [
+            "Lucknow",
+            "Agra",
+            "Bhopal",
+            "Delhi"
+        ],
+        [
+         "(1, 2, 3)",
+         "{}",
+         "{1,2,3}",
+         "[1,2,3]"
+        ],
+        [
+            "System function",
+            "Custom function",
+            "Built-in function & User defined function",
+            "User function"
+        ],
+        [
+            "list1.addEnd(5)",
+            "list1.addLast(5)",
+            "list1.append(5)",
+            "list1.add(5)"
+        ]
+    ]
+}
